@@ -12,5 +12,10 @@ In conclusion, the closure of schools due to the COVID-19 pandemic has been a ne
 
 Our study is dedicated to exploring and advancing Sustainable Development Goal 4 (SDG 4), which aims to ensure inclusive and quality education for all and promote lifelong learning opportunities. With a deep commitment to the principles of sustainability, we recognize the critical role that education plays in fostering sustainable development and empowering individuals and communities worldwide. By focusing our research and efforts on SDG 4, we strive to contribute to the realization of equitable and inclusive education systems that promote lifelong learning, enhance knowledge acquisition, and foster the skills necessary for individuals to thrive in a rapidly changing world. Through this lens, we seek to address the multifaceted challenges and opportunities associated with achieving sustainable development for present and future generations.
 
+PROBLEM STATEMENT
+
+The closure of schools due to the COVID-19 pandemic has presented significant challenges and disruptions in the field of education. This unprecedented measure has created a range of issues, including interrupted learning, academic regression, unequal access to remote education, and negative impacts on students' well-being. The abrupt shift to remote learning has highlighted disparities in technology access and parental support, exacerbating existing educational inequalities. Moreover, the closure of schools has affected the social and emotional development of students, limited their access to essential support services, and placed an additional burden on working parents. As we strive to mitigate the effects of school closures, it is crucial to address these complex challenges and develop strategies that ensure equitable and inclusive education for all students, both during and after the pandemic.
+
+
 
 
