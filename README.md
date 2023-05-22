@@ -16,6 +16,11 @@ PROBLEM STATEMENT
 
 The closure of schools due to the COVID-19 pandemic has presented significant challenges and disruptions in the field of education. This unprecedented measure has created a range of issues, including interrupted learning, academic regression, unequal access to remote education, and negative impacts on students' well-being. The abrupt shift to remote learning has highlighted disparities in technology access and parental support, exacerbating existing educational inequalities. Moreover, the closure of schools has affected the social and emotional development of students, limited their access to essential support services, and placed an additional burden on working parents. As we strive to mitigate the effects of school closures, it is crucial to address these complex challenges and develop strategies that ensure equitable and inclusive education for all students, both during and after the pandemic.
 
+SIGNIFICANCE 
+
+By temporarily suspending in-person education, school closures have played a pivotal role in reducing the risk of transmission among students, teachers, and the wider community. This measure has been instrumental in preventing the overwhelming healthcare systems, protecting vulnerable populations, and ultimately saving lives. Moreover, school closures have highlighted the interconnectedness between education and public health, emphasizing the need for comprehensive strategies that prioritize the well-being of students, promote equitable access to education, and address the broader societal impacts of the pandemic.
+
+
 
 
 
