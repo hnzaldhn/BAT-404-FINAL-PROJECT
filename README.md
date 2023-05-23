@@ -1,4 +1,4 @@
-## MENTAL HEALTH ANALYSIS
+# MENTAL HEALTH ANALYSIS
 
 **This Repository is for our requirenment in BAT 404 (IT 3203)**
 
