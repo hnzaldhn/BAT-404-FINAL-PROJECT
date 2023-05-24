@@ -41,6 +41,16 @@ One commonly used method for mental health analysis is a combination of clinical
 
 The expected output of mental health analysis is a comprehensive assessment of an individual's mental health status, which includes accurate diagnosis, identification of underlying factors contributing to mental health conditions, and personalized treatment plans. This analysis provides healthcare professionals with valuable insights into an individual's psychological, emotional, and behavioral patterns, enabling them to develop targeted interventions and therapies tailored to the specific needs of the individual. The expected output also includes ongoing monitoring and evaluation of treatment effectiveness, allowing for adjustments and modifications as necessary to optimize outcomes. Ultimately, the expected output of mental health analysis is improved mental well-being, enhanced quality of life, and the ability to effectively support individuals in their journey towards optimal mental health.
 
+## REFERENCES
+
+https://www.iacdglobal.org/2019/10/10/world-mental-health-day-and-sdg-3-good-health-and-well-being/#:~:text=The%20third%20SDG%20focuses%20on%20good%20health%20and,mortality%20from%20non-communicable%20diseases%20and%20promote%20mental%20health.
+
+https://www.pearsonassessments.com/content/school/global/clinical/us/en/campaign/mha-resource-center.html?utm_medium=PPC&utm_source=MicrosoftAd&utm_campaign=MentalHealth_7010N000000Cr7k&utm_content=MHA-HC
+
+https://www.cdc.gov/mentalhealth/learn/index.htm
+
+https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
+
 
 
 
